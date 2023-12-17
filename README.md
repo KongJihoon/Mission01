@@ -21,4 +21,8 @@
 - 개발 언어: JAVA (JDK 1.8), JSP
 - 라이브러리: gson 2.9.0, lombok 1.18.24, sqlite 3.36.03
 - 개발 도구: Tomket 8.5, IntelliJ IDEA, GitHub, exERD
+
+## ERD
+![Wifi](https://github.com/KongJihoon/Mission01/assets/138794635/866e52b6-fada-4305-bc02-e9a0b81a0bb4)
+
  
